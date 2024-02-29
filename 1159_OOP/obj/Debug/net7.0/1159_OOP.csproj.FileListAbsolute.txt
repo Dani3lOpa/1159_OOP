@@ -1,0 +1,14 @@
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\bin\Debug\net7.0\1159_OOP.exe
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\bin\Debug\net7.0\1159_OOP.deps.json
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\bin\Debug\net7.0\1159_OOP.runtimeconfig.json
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\bin\Debug\net7.0\1159_OOP.dll
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\bin\Debug\net7.0\1159_OOP.pdb
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.AssemblyInfoInputs.cache
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.AssemblyInfo.cs
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.csproj.CoreCompileInputs.cache
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.dll
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\refint\1159_OOP.dll
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.pdb
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\1159_OOP.genruntimeconfig.cache
+C:\Users\1159\source\repos\1159_OOP\1159_OOP\obj\Debug\net7.0\ref\1159_OOP.dll
